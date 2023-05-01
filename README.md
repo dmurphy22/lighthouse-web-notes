@@ -7,3 +7,4 @@ THis repository contains all of the notes taken by [Darragh](https://github.com/
 
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
+
